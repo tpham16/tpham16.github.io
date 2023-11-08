@@ -1,2 +1,13 @@
 _site/
-
+_data/
+_includes/
+_layouts/
+_pages/
+_publications/
+_sass/
+_talks/
+_teaching/
+files/
+markdown_generator
+talkmap
+CHANGELOG.md
