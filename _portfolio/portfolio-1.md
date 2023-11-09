@@ -1,6 +1,6 @@
 ---
 title: "Social Media Engagement Capstone Project"
-excerpt: "Developed and implemented an end-to-end ETL pipeline for processing social media engagement data across Instragram, Twitter, and YouTube. The pipeline encompassed extracting raw data, performing data transformation using **Python**, ochestrating the pipeline on PostgreSQL, and creating a dashboard using **Tableau**. [GitHub](https://github.com/tpham16/FIFA-21-Players/tree/main) 1<br/><img src='SocialMediaEngagementDashboard.png'>"
+excerpt: "Developed and implemented an end-to-end ETL pipeline for processing social media engagement data across Instragram, Twitter, and YouTube. The pipeline encompassed extracting raw data, performing data transformation using **Python**, ochestrating the pipeline on PostgreSQL, and creating a dashboard using **Tableau**. [View Code on GitHub](https://github.com/tpham16/FIFA-21-Players/tree/main) <br/><img src='SocialMediaEngagementDashboard.png'>"
 collection: portfolio
 ---
 
