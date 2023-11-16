@@ -4,5 +4,14 @@ excerpt: "Developed and implemented an end-to-end ETL pipeline for processing so
 collection: portfolio
 ---
 
+📱**Social Media Engagement Analytics | SQL with Python** 
+
 In this project, I worked with 2 classmates on a final capstone project to conduct comprehensive data collection, processing, and analysis of
 social media engagement data across Instagram, Twitter, and YouTube for The Knowledge House. 
+
+🛠️**Tools**
+* Python
+* SQL
+* Jupyter Notebook
+
+

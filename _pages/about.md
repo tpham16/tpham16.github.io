@@ -18,5 +18,5 @@ Welcome to my portfolio! I'm a UC Irvine Alumnus and Data Analyst who transition
 * Developing dashboards on Tableau and Excel.
 
 ## Education
-* The Knowledge House Data Science & Python Fellowship Bronx, New York (Remote) (_July 2022_ – _Sept 2023_)
+* The Knowledge House Data Science & Python Fellowship, Bronx, New York (Remote) (_July 2022_ – _Sept 2023_)
 * B.S., Biological Sciences, University of California, Irvine (_June 2020_)
