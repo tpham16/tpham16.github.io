@@ -1,7 +1,6 @@
 ---
 title: "Social Media Engagement Capstone Project"
 excerpt: "Developed and implemented an end-to-end ETL pipeline for processing social media engagement data across Instagram, Twitter, and YouTube. The pipeline encompassed extracting raw data, performing data transformation using **Python**, orchestrating the pipeline on PostgreSQL, and creating a dashboard using **Tableau**. [View Code on GitHub](https://github.com/tpham16/TKH-Social-Media-Engagement-Analytics) <br/><a href='https://github.com/tpham16/TKH-Social-Media-Engagement-Analytics'><img src='./images/SocialMediaEngagementDashboard.png' width='50%'></a>"
-SocialMediaEngagementDashboard.png' width='50%'>"
 collection: portfolio
 ---
 
