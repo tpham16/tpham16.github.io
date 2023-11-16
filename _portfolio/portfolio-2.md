@@ -1,6 +1,6 @@
 ---
 title: "FIFA 21 Players Dataset Data Cleaning & Transformation"
-excerpt: "Analyzed the FIFA 2021 player dataset with a focus on data cleaning, transformation, and exploratory data analysis (EDA). This extensive dataset provided in-depth information about football players, encompassing attributes, ratings, positions, and personal details. Through EDA, I delved into player attributes and positions, uncovering valuable insights, including the identification of highly valuable but underpaid players. [View Code on GitHub](https://github.com/tpham16/FIFA-21-Players) <br/><a href='https://github.com/tpham16/FIFA-21-Players'><img src='./images/fifa21.png' width='50%'></a>"
+excerpt: "Analyzed the FIFA 2021 player dataset with a focus on data cleaning, transformation, and exploratory data analysis (EDA). This extensive dataset provided in-depth information about football players, encompassing attributes, ratings, positions, and personal details. Through EDA, I delved into player attributes and positions, uncovering valuable insights, including the identification of highly valuable but underpaid players. [View Code on GitHub](https://github.com/tpham16/FIFA-21-Players) \n\n[![Social Media Engagement Dashboard](/images/fifa21.png){: style='display: block; margin: 0 auto; border: 2px solid black;' width='75%'}](https://github.com/tpham16/FIFA-21-Players)"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 FIFA21 is a popular video game that simulates soccer matches. Often, data collected from this game might be messy, containing missing values and various formating issues. As an enthusiastic soccer fan, I put together this project to practice data cleaning and data exploring for analysis using Python and Pandas. 
 
-**Tools**
+🛠️**Tools**
 * Python 
 
 📊**The FIFA21 Dataset**
