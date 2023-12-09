@@ -8,7 +8,7 @@ collection: portfolio
 
 FIFA21 is a popular video game that simulates soccer matches. Often, data collected from this game might be messy, containing missing values and various formating issues. As an enthusiastic soccer fan, I put together this project to practice data cleaning and data exploring for analysis using Python and Pandas. 
 
-🛠️**Tools**
+**Tools**
 * Python 
 
 📊**The FIFA21 Dataset**
