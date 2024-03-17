@@ -1,5 +1,6 @@
 # main links links
 main:
+<<<<<<< HEAD
   - title: "Resume"
     url: /files/resume.pdf
 
@@ -11,15 +12,34 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+=======
+>>>>>>> 14dc098ebcb624c72c86f105f0b4374cc26d04ae
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+  - title: "Resume"
+    url: /files/resume.pdf
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "CV"
+  #   url: /cv/
+    
+<<<<<<< HEAD
   - title: "CV"
     url: /cv/
     
   - title: "Guide"
     url: /markdown/
 ''
+=======
+  # - title: "Guide"
+  #   url: /markdown/
+>>>>>>> 14dc098ebcb624c72c86f105f0b4374cc26d04ae

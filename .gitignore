@@ -1,4 +1,5 @@
 _site/
+<<<<<<< HEAD
 _data/
 _includes/
 _layouts/
@@ -11,3 +12,5 @@ files/
 markdown_generator
 talkmap
 CHANGELOG.md
+=======
+>>>>>>> 14dc098ebcb624c72c86f105f0b4374cc26d04ae
