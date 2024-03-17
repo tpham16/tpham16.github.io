@@ -1,24 +1,10 @@
 # main links links
 main:
-<<<<<<< HEAD
-  - title: "Resume"
-    url: /files/resume.pdf
-
-  - title: "Projects"
-    url: /projects/    
-
-
-'''
-  - title: "Teaching"
-    url: /teaching/    
-    
-=======
->>>>>>> 14dc098ebcb624c72c86f105f0b4374cc26d04ae
   - title: "Portfolio"
     url: /portfolio/
 
   - title: "Resume"
-    url: /files/resume.pdf
+    url: /files/Tom Pham-Resume.pdf
 
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -32,14 +18,5 @@ main:
   # - title: "CV"
   #   url: /cv/
     
-<<<<<<< HEAD
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
-''
-=======
   # - title: "Guide"
   #   url: /markdown/
->>>>>>> 14dc098ebcb624c72c86f105f0b4374cc26d04ae
