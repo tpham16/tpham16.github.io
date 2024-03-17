@@ -91,6 +91,7 @@ author:
   name             : "Tom Pham"
   avatar           : "headshot.png"
 <<<<<<< HEAD
+<<<<<<< HEAD
   bio              : "Welcome to my Portfolio!"
   location         : "Orange County, CA"
   employer         :
@@ -98,6 +99,9 @@ author:
   googlescholar    : 
 =======
   bio              : "Data Analyst"
+=======
+  bio              : "Data Analyst | Seeking full-time or part-time roles."
+>>>>>>> 0ceacb2d95801a6f48dce604529f97620b125847
   location         : "Orange County, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
