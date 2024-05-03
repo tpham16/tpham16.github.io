@@ -7,19 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-title                    : "Tom Pham"
-title_separator          : "-"
-name                     : &name "Tom Pham"
-description              : &description "Personal Description"
-url                      : tpham16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
 title                    : "Tom Pham's Homepage"
 title_separator          : "-"
 name                     : &name "Tom Pham"
 description              : &description "personal description"
 url                      : https://tpham16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
->>>>>>> 14dc098ebcb624c72c86f105f0b4374cc26d04ae
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tpham16/tpham16.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -91,7 +83,6 @@ author:
   name             : "Tom Pham"
   avatar           : "headshot.png"
 <<<<<<< HEAD
-<<<<<<< HEAD
   bio              : "Welcome to my Portfolio!"
   location         : "Orange County, CA"
   employer         :
@@ -99,9 +90,6 @@ author:
   googlescholar    : 
 =======
   bio              : "Data Analyst"
-=======
-  bio              : "Data Analyst | Seeking full-time or part-time roles."
->>>>>>> 0ceacb2d95801a6f48dce604529f97620b125847
   location         : "Orange County, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
